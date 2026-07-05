@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ZeeKota">
+  <rect width="64" height="64" rx="12" fill="#050505"/>
+  <path d="M13 14h38v8L27 43h24v7H13v-8l24-21H13z" fill="#ef1d2f"/>
+  <path d="M18 18h28L22 39h26v7H18v-6l24-21H18z" fill="#ffffff" opacity=".16"/>
+  <path d="M42 14h8L38 30l13 20h-9L31 33l-4 4v13h-8V14h8v13z" fill="#ffffff"/>
+</svg>
